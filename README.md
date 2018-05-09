@@ -14,4 +14,4 @@ função encript: recebe o texto a ser criptografado como parâmetro e retorna o
 
 função decript: recebe o texto criptografado como parâmetro e retorna o texto descriptografado.
 
-# OBS: UM TEXTO CRIPTOGRAFADO COM UMA PALAVRA-PASSE SÓ PODE SER DESCRIPTOGRAFADO COM A UTILIZAÇÃO DA MESMA PALAVRA-PASSE NO ESCOPO DA BIBLIOTECA.
+OBS: UM TEXTO CRIPTOGRAFADO COM UMA PALAVRA-PASSE SÓ PODE SER DESCRIPTOGRAFADO COM A UTILIZAÇÃO DA MESMA PALAVRA-PASSE NO ESCOPO DA BIBLIOTECA.
