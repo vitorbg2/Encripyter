@@ -1,17 +1,17 @@
 # Encripyter
 
 
-Biblioteca capaz de criptografar texto utilizando rotaÁ„o iterativa,
-combinada com rotaÁ„o baseada em um hash da palavra-passe.
+Biblioteca capaz de criptografar texto utilizando rota√ß√£o iterativa,
+combinada com rota√ß√£o baseada em um hash da palavra-passe.
 
 A palavra passe pode e deve ser alterada na biblioteca.
 
-Existe uma funÁ„o para criptografar e outra para descriptografar.
+Existe uma fun√ß√£o para criptografar e outra para descriptografar.
 
-Existe ainda funÁıes para caso queira utilizar como entrada/saÌda um arquivo de texto.
+Existe ainda fun√ß√µes para caso queira utilizar como entrada/sa√≠da um arquivo de texto.
 
-funÁ„o encript: recebe o texto a ser criptografado como par‚metro e retorna o texto j· cifrado.
+fun√ß√£o encript: recebe o texto a ser criptografado como par√¢metro e retorna o texto j√° cifrado.
 
-funÁ„o decript: recebe o texto criptografado como par‚metro e retorna o texto descriptografado.
+fun√ß√£o decript: recebe o texto criptografado como par√¢metro e retorna o texto descriptografado.
 
-OBS: UM TEXTO CRIPTOGRAFADO COM UMA PALAVRA-PASSE S” PODE SER DESCRIPTOGRAFADO COM A UTILIZA«√O DA MESMA PALAVRA-PASSE NO ESCOPO DA BIBLIOTECA.
+# OBS: UM TEXTO CRIPTOGRAFADO COM UMA PALAVRA-PASSE S√ì PODE SER DESCRIPTOGRAFADO COM A UTILIZA√á√ÉO DA MESMA PALAVRA-PASSE NO ESCOPO DA BIBLIOTECA.
