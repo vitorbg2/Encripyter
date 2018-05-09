@@ -1,4 +1,4 @@
-﻿# Encripyter
+﻿# Encripyter, biblioteca Encripy.py
 
 
 Biblioteca capaz de criptografar texto utilizando rotação iterativa,
