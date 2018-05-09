@@ -1,4 +1,4 @@
-# Encripyter
+﻿# Encripyter
 
 
 Biblioteca capaz de criptografar texto utilizando rotação iterativa,
@@ -15,3 +15,16 @@ função encript: recebe o texto a ser criptografado como parâmetro e retorna o
 função decript: recebe o texto criptografado como parâmetro e retorna o texto descriptografado.
 
 OBS: UM TEXTO CRIPTOGRAFADO COM UMA PALAVRA-PASSE SÓ PODE SER DESCRIPTOGRAFADO COM A UTILIZAÇÃO DA MESMA PALAVRA-PASSE NO ESCOPO DA BIBLIOTECA.
+
+
+Exemplos de uso:
+
+from Encripy import Cripty #Importando biblioteca
+
+cript = Cripty() #Instanciando a classe
+
+text = cript.encript("Cryptography this text") #Criptografando o texto e gravando na variável 'text'
+
+print(text) #Exibindo o texto criptografado
+
+print(cript.decript(text)) #Exibindo o resultado do decript na tela
